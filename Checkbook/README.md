@@ -5,7 +5,7 @@ Checkbook
 
 Checkbook was an interactive art project I did in college as part of my 4.643J class at MIT.
 
-It's essentially a randomly assembled, web version of work done by Barbara Kruger and Jenny Holzer.  Barbara Kruger is known for juxtaposing images and phrases to subvert or give new meaning to the original image. Jenny Holzer is known for using text in installations or buildings to add commentary on the physical world.  The project title itself comes from one of Kruger's works which commonly goes by "When I hear the word Culture I take out my checkbook."
+It's essentially a randomly assembled, web version of work done by [Barbara Kruger](http://en.wikipedia.org/wiki/Barbara_Kruger) and [Jenny Holzer](http://en.wikipedia.org/wiki/Jenny_Holzer).  Barbara Kruger is known for juxtaposing images and phrases to subvert or give new meaning to the original image. Jenny Holzer is known for using text in installations or buildings to add commentary on the physical world.  The project title itself comes from one of Kruger's works which commonly goes by "When I hear the word Culture I take out my checkbook."
 
 My take was to present a word or phrase on a web page which would link to some destination site.  The intention is that the participant's feelings on the destination site would be altered when thinking about the words that they had just seen. The sites ranged from art collections, biology, politics and even personal web sites (such as they were in the Spring of 1995). Though I don't include the actual art assets here, I lifted some of Kruger's phrases and tried to come up with a few of my own and used a few from advertisements. 
 
